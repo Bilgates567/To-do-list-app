@@ -1,0 +1,18 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "checked": {
+        "id": 1,
+        "checked": false,
+        "item": "python"
+      },
+      "item": "python"
+    },
+    {
+      "id": 3,
+      "checked": false,
+      "item": "dsa practice"
+    }
+  ]
+}
